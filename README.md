@@ -37,3 +37,6 @@ Experienced Lead iOS Developer with over 10 years of experience in developing iO
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yurii-goroshenko&hide_progress=true)
+
+
+![](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fyurii-goroshenko&countColor=%23263759)
